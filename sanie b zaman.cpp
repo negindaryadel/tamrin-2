@@ -9,7 +9,7 @@ int main()
    1 minute = 60 second;
    1 hour = 3600 second ;*/
 
-   cout << " enter time : ";
+   cout << " enter second : ";
    cin>>time;
    hour = time / 3600;
    time = time % 3600;
